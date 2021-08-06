@@ -1,0 +1,23 @@
+.container{
+    border:2px solid red;
+height:300px
+}
+
+.container  div{
+    width:30%;
+height:50px;
+}
+#one{
+    border:1px solid green;
+
+}
+#two{
+    border:1px solid blue;
+    /* margin-bottom:2rem; */
+}
+#three{
+    
+    border:1px solid rgb(204, 203, 202);
+width:80%;
+margin-left:auto;
+}
